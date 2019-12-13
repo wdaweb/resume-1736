@@ -9,7 +9,7 @@
                 ?>
                     <table>
                     <tr>
-                        <td>公司名稱</td>
+                        <td>公司名稱&emsp;</td>
                         <td> <input type="text" name="company[]" id="company" value="<?=$u['company'];?>"></td>
                     </tr>  
                     <tr>  

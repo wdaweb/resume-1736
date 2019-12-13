@@ -1,3 +1,27 @@
-body{
-    background:gray;
+body {
+   font-size:1.5em;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: var(--font-family-sans-serif), 'Microsoft JHengHei';
+    background:white;
 }
+.resumes{
+    line-height:50px;
+    font-weight:bold;
+    
+}
+
+.object-fit {
+    object-fit: cover;
+    object-position: center;
+}
+
+#D{
+ 
+        position: relative;
+        left: 90%;
+    
+}
+
+

@@ -24,7 +24,7 @@
                     <input type="hidden" name="id[]" value="<?=$u['id'];?>">
             </tr> 
             <?php
-                }
+            }
             ?>               
                 </table>
                 <table>

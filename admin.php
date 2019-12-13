@@ -61,7 +61,7 @@ a:visited{
     }
 *{
    margin:0;
-   box-sizing:border-box;
+   box-sizing: border-box;
 }
 .BG{
     width:100%;
@@ -116,9 +116,9 @@ a:visited{
 .footer{
     width:100%;
     height:50px;
-    background:white;
     border:4px dashed #003377;
     background:#0044BB;
+    justify-content: baseline;
 }
 h1{
     font-size:5.5em;
@@ -263,9 +263,8 @@ td textarea{
             </div>
         </div>
     </div>
-    <div class="footer">
-    
-    </div>
+
 </div>
+    <div class="footer"></div>
 </body>
 </html>

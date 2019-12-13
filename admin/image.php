@@ -4,7 +4,7 @@
             <form action="./api/edit_image.php" method="post">
                 <table>
                     <tr>
-                        <td>網頁用圖片</td>
+                        <td>圖片</td>
                         <td>說明</td>
                         <td>顯示</td>
                         <td>刪除</td>
